@@ -1,3 +1,10 @@
+# Archived
+This repository is no longer the active fuzzing implementation for DataFusion.
+
+It has been moved to [`datafusion-contrib/datafusion-fuzzer`](https://github.com/datafusion-contrib/datafusion-fuzzer) instead.
+
+See https://github.com/apache/datafusion/issues/14535 for more details.
+
 # DataFusion-SQLancer
 This is [DataFusion](https://github.com/apache/datafusion)'s implementation of [SQLancer](https://github.com/sqlancer/sqlancer) on SQLancer's testing framework.
 
